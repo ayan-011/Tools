@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+
+@layer components {
+    .image{
+        -webkit-mask-image: url(./public/o.png);
+        -webkit-mask-position: center;
+        -webkit-mask-repeat: no-repeat;
+        
+    }
+
+    .text-stroke {
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-color: white;
+        -webkit-text-stroke-width: 1px;
+    }
+    .perspective{
+        perspective: 2200px;
+    }
+}
