@@ -2,6 +2,10 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 [![npm](https://img.shields.io/npm/v/@wagtail/eslint-config-wagtail.svg)](https://www.npmjs.com/package/@wagtail/eslint-config-wagtail) [![Build status](https://github.com/wagtail/eslint-config-wagtail/workflows/CI/badge.svg)](https://github.com/wagtail/eslint-config-wagtail/actions)
